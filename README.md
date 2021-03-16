@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Pinkly-dev
+- 👀 I’m interested in Gamedev
+- 🌱 I’m currently learning C++ and python
